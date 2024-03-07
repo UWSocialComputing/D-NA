@@ -1,6 +1,15 @@
 We are team D&NA with members Amy Cheng, Aaleah Mendoza, Nathan Sidik, and David Strupinski. 
 
+The website should include the following information:
 
+Logo, name, tagline, etc.
+Information about you (photos, names, contact info, roles…)
+Video demo
+Link to final digital prototype
+(potentially, depending on your vision for this landing page) screenshots or descriptions of your final prototype, images or tidbits from the design process, or anything else you want to bring out of your blog posts to spotlight on this page
+Blog posts
+
+----
 Welcome to your CSE 481p repo! 
 
 This repo will serve as a place to both collaborate on code with your group members as well as create your blog sites for your projects. It contains a `_config.yml` file that automatically turns your `README.md` files into webpages hosted on GitHub pages. 

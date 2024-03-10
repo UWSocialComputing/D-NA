@@ -1,6 +1,20 @@
-## About Us
+![Snoozer Logo and Tagline](Heading.png)
 
-We are Team D&NA, a group of passionate individuals dedicated to cultivate healthier habits in the way people approach their mornings.
+# SNOOZER
+
+Welcome to Snoozer, made by D&NA! We’ve created an iOS app to help students revolutionize their morning routines and cultivate healthier habits. The key features of the app are: 
+
+1. Chat Feature to emphasize social accountability in waking up friends
+  
+2. Trivia Questions to wake your brain up Leaderboards and Streaks to compare on time wake up times
+
+### Check out our demo video [here](https://www.youtube.com/watch?v=mNdaqW95iM8)!
+
+[![thumbnail](/pics/thumbnail.png)](https://www.youtube.com/watch?v=mNdaqW95iM8)
+
+### Interested? Try it yourself [here!](https://uwsocialcomputing.github.io/D-NA/)
+
+![Poster](Poster.png)
 
 # Team D&NA
 
@@ -13,7 +27,9 @@ We are Team D&NA, a group of passionate individuals dedicated to cultivate healt
 ### Interested? Try it yourself [here!](https://uwsocialcomputing.github.io/D-NA/)
 
 
-### Team Members
+## About Us
+
+We are Team D&NA, a group of passionate individuals dedicated to cultivate healthier habits in the way people approach their mornings.
 
 #### Amy Cheng
 - **Role:** [Amy's role]
@@ -36,19 +52,3 @@ We are Team D&NA, a group of passionate individuals dedicated to cultivate healt
 - **Contact:** [David's contact info]
 
 ![David Strupinski](link_to_david_photo.jpg)
-
-
-Link to final digital prototype
-(potentially, depending on your vision for this landing page) screenshots or descriptions of your final prototype, images or tidbits from the design process, or anything else you want to bring out of your blog posts to spotlight on this page
-Blog posts
-
-----
-Welcome to your CSE 481p repo! 
-
-This repo will serve as a place to both collaborate on code with your group members as well as create your blog sites for your projects. It contains a `_config.yml` file that automatically turns your `README.md` files into webpages hosted on GitHub pages. 
-
-Please refer to the README in [this repo](https://github.com/nicolas-van/easy-markdown-to-github-pages) for more on the markdown to webpage generation process. Most of the steps have already been done for you, so the most relevant content will likely be in the User Guide and the sections following that. 
-
-If you want to change the site's Jekyll template and/or add custom CSS, please refer to [this guide](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll).
-
-You may also find this [GitHub markdown cheatsheet](https://www.markdownguide.org/cheat-sheet) handy.

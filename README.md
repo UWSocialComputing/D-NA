@@ -6,6 +6,7 @@ Logo, name, tagline, etc.
 Information about you (photos, names, contact info, roles…)
 
 [Watch Video Demo](https://www.youtube.com/watch?v=mNdaqW95iM8)
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=mNdaqW95iM8" frameborder="0" allowfullscreen></iframe>
 
 Link to final digital prototype
 (potentially, depending on your vision for this landing page) screenshots or descriptions of your final prototype, images or tidbits from the design process, or anything else you want to bring out of your blog posts to spotlight on this page

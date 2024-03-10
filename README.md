@@ -26,23 +26,21 @@ Welcome to Snoozer, made by D&NA! We’ve created an iOS app to help students re
 We are Team D&NA, a group of passionate individuals dedicated to cultivate healthier habits in the way people approach their mornings.
 
 #### Amy Cheng
-- **Role:** [Amy's role]
+- **Role:** Frontend Developer
 
 ![Amy Cheng](link_to_amy_photo.jpg)
 
 #### Aaleah Mendoza
-- **Role:** [Aaleah's role]
+- **Role:** Assistant PM & Creative Director
 
 ![Aaleah Mendoza](link_to_aaleah_photo.jpg)
 
 #### Nathan Sidik
-- **Role:** [Nathan's role]
-- **Contact:** [Nathan's contact info]
+- **Role:** PM & Full Stack Developer
 
 ![Nathan Sidik](link_to_nathan_photo.jpg)
 
 #### David Strupinski
-- **Role:** [David's role]
-- **Contact:** [David's contact info]
+- **Role:** Full Stack Developer
 
 ![David Strupinski](link_to_david_photo.jpg)

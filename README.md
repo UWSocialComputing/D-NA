@@ -5,7 +5,11 @@ The website should include the following information:
 Logo, name, tagline, etc.
 Information about you (photos, names, contact info, roles…)
 
-[Watch Video Demo](https://www.youtube.com/watch?v=mNdaqW95iM8)
+### Check out our demo video [here](https://www.youtube.com/watch?v=mNdaqW95iM8)!
+
+[![thumbnail](/pics/thumbnail.png)](https://www.youtube.com/watch?v=mNdaqW95iM8)
+
+### Interested? Try it yourself [here!](https://uwsocialcomputing.github.io/D-NA/)
 
 
 Link to final digital prototype

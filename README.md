@@ -20,12 +20,6 @@ Welcome to Snoozer, made by D&NA! We’ve created an iOS app to help students re
 
 ![Team D&NA Logo](link_to_logo.png)
 
-### Check out our demo video [here](https://www.youtube.com/watch?v=mNdaqW95iM8)!
-
-[![thumbnail](thumbnail.png)](https://www.youtube.com/watch?v=mNdaqW95iM8)
-
-### Interested? Try it yourself [here!](https://uwsocialcomputing.github.io/D-NA/)
-
 
 ## About Us
 

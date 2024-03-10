@@ -11,7 +11,7 @@ Welcome to Snoozer, made by D&NA! We’ve created an iOS app to help students re
 
 [![thumbnail](thumbnail.png)](https://www.youtube.com/watch?v=mNdaqW95iM8)
 
-### Interested? Try it yourself [here!](https://uwsocialcomputing.github.io/D-NA/)
+### Interested? Try it yourself [here!](https://github.com/UWSocialComputing/D-NA-code)
 
 ![Poster](SnoozerPoster.png)
 
@@ -21,7 +21,7 @@ Welcome to Snoozer, made by D&NA! We’ve created an iOS app to help students re
 
 We are Team D&NA, a group of passionate individuals dedicated to cultivate healthier habits in the way people approach their mornings.
 
-#### [Amy Cheng](www.linkedin.com/in/amy-chengg/)
+#### [Amy Cheng](https://www.linkedin.com/in/amy-chengg/)
 - **Role:** Frontend Developer
 
 #### [Aaleah Mendoza](https://www.linkedin.com/in/aaleah-mendoza-a3093117a/)

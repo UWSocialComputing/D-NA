@@ -4,7 +4,9 @@ The website should include the following information:
 
 Logo, name, tagline, etc.
 Information about you (photos, names, contact info, roles…)
-Video demo
+
+[Watch Video Demo]([https://www.youtube.com/watch?v=yourvideoid](https://youtu.be/mNdaqW95iM8?feature=shared))
+
 Link to final digital prototype
 (potentially, depending on your vision for this landing page) screenshots or descriptions of your final prototype, images or tidbits from the design process, or anything else you want to bring out of your blog posts to spotlight on this page
 Blog posts

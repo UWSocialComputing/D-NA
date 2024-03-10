@@ -1,4 +1,4 @@
-![Snoozer Logo and Tagline](Heading.png)
+![Snoozer Logo and Tagline](heading.png)
 
 # SNOOZER
 
@@ -8,39 +8,28 @@ Welcome to Snoozer, made by D&NA! We’ve created an iOS app to help students re
   
 2. Trivia Questions to wake your brain up Leaderboards and Streaks to compare on time wake up times
 
-### Check out our demo video ![here](https://www.youtube.com/watch?v=mNdaqW95iM8)
+### Check out our demo video!
 
 [![thumbnail](thumbnail.png)](https://www.youtube.com/watch?v=mNdaqW95iM8)
 
 ### Interested? Try it yourself [here!](https://uwsocialcomputing.github.io/D-NA/)
 
-![Poster](poster.png)
+![Poster](SnoozerPoster.png)
 
 # Team D&NA
-
-![Team D&NA Logo](link_to_logo.png)
-
 
 ## About Us
 
 We are Team D&NA, a group of passionate individuals dedicated to cultivate healthier habits in the way people approach their mornings.
 
-#### Amy Cheng
+#### [Amy Cheng](www.linkedin.com/in/amy-chengg/)
 - **Role:** Frontend Developer
 
-![Amy Cheng](link_to_amy_photo.jpg)
-
-#### Aaleah Mendoza
+#### [Aaleah Mendoza](https://www.linkedin.com/in/aaleah-mendoza-a3093117a/)
 - **Role:** Assistant PM & Creative Director
 
-![Aaleah Mendoza](link_to_aaleah_photo.jpg)
-
-#### Nathan Sidik
+#### [Nathan Sidik](https://www.linkedin.com/in/nathan-sidik/)
 - **Role:** PM & Full Stack Developer
 
-![Nathan Sidik](link_to_nathan_photo.jpg)
-
-#### David Strupinski
+#### [David Strupinsk](https://www.linkedin.com/in/david-strupinski/)
 - **Role:** Full Stack Developer
-
-![David Strupinski](link_to_david_photo.jpg)

@@ -1,6 +1,5 @@
 ![Snoozer Logo and Tagline](heading.png)
 
-# SNOOZER
 
 Welcome to Snoozer, made by D&NA! We’ve created an iOS app to help students revolutionize their morning routines and cultivate healthier habits. The key features of the app are: 
 

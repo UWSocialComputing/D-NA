@@ -7,7 +7,7 @@ Information about you (photos, names, contact info, roles…)
 
 ### Check out our demo video [here](https://www.youtube.com/watch?v=mNdaqW95iM8)!
 
-[![thumbnail](/pics/thumbnail.png)](https://www.youtube.com/watch?v=mNdaqW95iM8)
+[![thumbnail](thumbnail.png)](https://www.youtube.com/watch?v=mNdaqW95iM8)
 
 ### Interested? Try it yourself [here!](https://uwsocialcomputing.github.io/D-NA/)
 

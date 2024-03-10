@@ -8,13 +8,13 @@ Welcome to Snoozer, made by D&NA! We’ve created an iOS app to help students re
   
 2. Trivia Questions to wake your brain up Leaderboards and Streaks to compare on time wake up times
 
-### Check out our demo video [here](https://www.youtube.com/watch?v=mNdaqW95iM8)!
+### Check out our demo video ![here](https://www.youtube.com/watch?v=mNdaqW95iM8)
 
 [![thumbnail](/pics/thumbnail.png)](https://www.youtube.com/watch?v=mNdaqW95iM8)
 
 ### Interested? Try it yourself [here!](https://uwsocialcomputing.github.io/D-NA/)
 
-![Poster](Poster.png)
+![Poster](poster.png)
 
 # Team D&NA
 

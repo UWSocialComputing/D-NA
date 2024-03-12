@@ -11,7 +11,11 @@ Welcome to Snoozer, made by D&NA! We’ve created an iOS app to help students re
 
 [![thumbnail](thumbnail.png)](https://www.youtube.com/watch?v=mNdaqW95iM8)
 
-<img src="teamaward.jpeg" width=300 height=400>
+<p align="center">
+<img src="teamaward.jpeg" width=300 height=400> </p>
+  
+  <p align="center"> Won the "Most Entertaining Video" Award
+</p>
 ### Interested? Try it yourself [here!](https://github.com/UWSocialComputing/D-NA-code)
 
 ![Poster](SnoozerPoster.png)
